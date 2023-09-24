@@ -1,10 +1,12 @@
 # Image_Stegnography
-# # 
+# # Introduction
+# # # Steganography is a...
 '''
 https://drive.google.com/drive/folders/1DvJiI_MGDVtQpmtMiIqRsGynN1w8_Dki
 '''
+# How to use
 # # Step-1
-download the folder from the github and extract it from the readme.
+download the folder from the github and extract the code from it.
 
 ## Step-2
 
